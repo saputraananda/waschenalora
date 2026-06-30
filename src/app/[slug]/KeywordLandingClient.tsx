@@ -20,7 +20,6 @@ import {
   Zap
 } from 'lucide-react';
 
-// Import logos for the units
 import cleanoxLogo from '@/assets/logo/cleanox.webp';
 import ikmLogo from '@/assets/logo/ikm.webp';
 import waschenLogo from '@/assets/logo/waschen.webp';
@@ -36,13 +35,11 @@ export const KeywordLandingClient: React.FC<KeywordLandingClientProps> = ({ data
 
   const isEn = language === 'en';
   
-  // Get text content based on active language
   const h1Text = isEn ? data.h1.en : data.h1.id;
   const descriptionText = isEn ? data.descriptionDetailed.en : data.descriptionDetailed.id;
   const serviceName = isEn ? data.serviceName.en : data.serviceName.id;
   const locationName = isEn ? data.locationName.en : data.locationName.id;
 
-  // Unit-specific branding assets and texts
   const unitBranding = {
     waschen: {
       name: 'Waschen Laundry',
@@ -71,7 +68,7 @@ export const KeywordLandingClient: React.FC<KeywordLandingClientProps> = ({ data
       url: 'https://www.ikmalora.com/'
     },
     cleanox: {
-      name: 'Cleanox',
+      name: 'Cleanox Indonesia',
       logo: cleanoxLogo,
       tagline: {
         en: 'Professional Home & Office Cleaning Services',
