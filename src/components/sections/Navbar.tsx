@@ -109,13 +109,18 @@ export const Navbar: FC = () => {
       <div className="max-w-[1400px] mx-auto flex items-center justify-between">
         {/* Logo */}
         <div className="flex-1 flex justify-start">
-          <Link href="/" className="flex items-center group cursor-pointer" suppressHydrationWarning>
+          <Link href="/" className="flex items-center gap-3 group cursor-pointer" suppressHydrationWarning>
             <Image
               src={logoAlora}
               alt="Alora Group"
               priority
               className="h-9 w-auto object-contain transition-all duration-500 group-hover:scale-105"
             />
+            <span className={`text-lg font-semibold transition-all duration-500 ${
+              isScrolled ? 'text-[#D4AF37]' : 'text-[#D4AF37]'
+            }`}>
+              Alora Group
+            </span>
           </Link>
         </div>
 
