@@ -3,12 +3,12 @@ import { ContactClient } from './ContactClient';
 
 export const metadata: Metadata = {
   title: 'Hubungi Kami',
-  description: 'Hubungi PT Waschen Alora Indonesia untuk kebutuhan kerja sama, kemitraan B2B laundry komersial, sewa linen, cleaning service kantor, maupun pertanyaan umum.',
+  description: 'Hubungi Alora Group untuk kebutuhan kerja sama, kemitraan B2B laundry komersial, sewa linen, cleaning service kantor, maupun pertanyaan umum.',
   openGraph: {
-    title: 'Hubungi Kami | Waschen Alora Indonesia',
+    title: 'Hubungi Kami | Alora Group',
     description: 'Hubungi tim khusus kami untuk kemitraan korporat, laundry rumah sakit & hotel, atau jasa pembersihan komersial.',
     url: 'https://wascenalora.com/contact',
-    siteName: 'Waschen Alora Indonesia',
+    siteName: 'Alora Group',
     locale: 'id_ID',
     type: 'website',
   }

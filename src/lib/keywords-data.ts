@@ -21,8 +21,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-raffles-hills-cibubur': {
     slug: 'laundry-raffles-hills-cibubur',
     title: {
-      en: 'Premium Laundry Raffles Hills Cibubur | Waschen Alora',
-      id: 'Laundry Premium Raffles Hills Cibubur | Waschen Alora'
+      en: 'Premium Laundry Raffles Hills Cibubur | Alora Group',
+      id: 'Laundry Premium Raffles Hills Cibubur | Alora Group'
     },
     description: {
       en: 'Professional and premium laundry services in Raffles Hills especially in Cibubur, Cibubur. Certified hygiene, eco-friendly detergents, and express services available.',
@@ -67,8 +67,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-citra-grand-cibubur': {
     slug: 'laundry-citra-grand-cibubur',
     title: {
-      en: 'Professional Laundry Citra Grand Cibubur | Waschen Alora',
-      id: 'Laundry Profesional Citra Grand Cibubur | Waschen Alora'
+      en: 'Professional Laundry Citra Grand Cibubur | Alora Group',
+      id: 'Laundry Profesional Citra Grand Cibubur | Alora Group'
     },
     description: {
       en: 'Professional laundry and dry cleaning services for Citra Grand especially in Cibubur Cibubur. We offer premium care for clothing, carpets, bedcovers, and more.',
@@ -105,8 +105,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-canadian-cibubur': {
     slug: 'laundry-canadian-cibubur',
     title: {
-      en: 'Laundry Canadian Cluster Kota Wisata Cibubur | Waschen Alora',
-      id: 'Laundry Cluster Canadian Kota Wisata Cibubur | Waschen Alora'
+      en: 'Laundry Canadian Cluster Kota Wisata Cibubur | Alora Group',
+      id: 'Laundry Cluster Canadian Kota Wisata Cibubur | Alora Group'
     },
     description: {
       en: 'Premium laundry services for the Canadian Cluster in Kota Wisata especially in Cibubur, Cibubur. Trusted cleaning for all types of garments with pickup options.',
@@ -120,8 +120,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Premium Laundry', id: 'Laundry Premium' },
     locationName: { en: 'Canadian Cluster, Kota Wisata, Cibubur (Jabodetabek)', id: 'Cluster Canadian, Kota Wisata, Cibubur (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'Waschen Alora provides custom laundry care for Canadian especially in Cibubur Cluster residents within Kota Wisata Cibubur. We ensure absolute hygiene and cleanliness with our modern washing processes and quality checks.',
-      id: 'Waschen Alora menyediakan perawatan laundry khusus untuk penghuni Cluster Canadian di dalam Kota Wisata Cibubur. Kami menjamin kebersihan dan higienitas mutlak dengan proses cuci modern dan kontrol kualitas tinggi.'
+      en: 'Alora Group provides custom laundry care for Canadian especially in Cibubur Cluster residents within Kota Wisata Cibubur. We ensure absolute hygiene and cleanliness with our modern washing processes and quality checks.',
+      id: 'Alora Group menyediakan perawatan laundry khusus untuk penghuni Cluster Canadian di dalam Kota Wisata Cibubur. Kami menjamin kebersihan dan higienitas mutlak dengan proses cuci modern dan kontrol kualitas tinggi.'
     },
     features: [
       {
@@ -143,8 +143,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-sentral-eropa-cibubur': {
     slug: 'laundry-sentral-eropa-cibubur',
     title: {
-      en: 'Laundry Sentral Eropa Cibubur | Waschen Alora',
-      id: 'Laundry Sentral Eropa Cibubur | Waschen Alora'
+      en: 'Laundry Sentral Eropa Cibubur | Alora Group',
+      id: 'Laundry Sentral Eropa Cibubur | Alora Group'
     },
     description: {
       en: 'Expert laundry and dry cleaning services for Sentral Eropa especially in Cibubur Kota Wisata, Cibubur. Certified sanitation and high-efficiency machines.',
@@ -158,8 +158,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Expert Laundry', id: 'Laundry Ahli' },
     locationName: { en: 'Sentral Eropa, Kota Wisata, Cibubur (Jabodetabek)', id: 'Sentral Eropa, Kota Wisata, Cibubur (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'Located close to the business district of Sentral Eropa in Kota Wisata especially in Cibubur Cibubur, Waschen Alora Indonesia caters to both corporate entities and residential clients, delivering fast and immaculate results.',
-      id: 'Berada dekat dengan area komersial Sentral Eropa di Kota Wisata khususnya di Cibubur Cibubur, Waschen Alora Indonesia melayani entitas korporat maupun klien hunian dengan hasil yang cepat dan bersih sempurna.'
+      en: 'Located close to the business district of Sentral Eropa in Kota Wisata especially in Cibubur Cibubur, Alora Group caters to both corporate entities and residential clients, delivering fast and immaculate results.',
+      id: 'Berada dekat dengan area komersial Sentral Eropa di Kota Wisata khususnya di Cibubur Cibubur, Alora Group melayani entitas korporat maupun klien hunian dengan hasil yang cepat dan bersih sempurna.'
     },
     features: [
       {
@@ -177,8 +177,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-legenda-wisata-cibubur': {
     slug: 'laundry-legenda-wisata-cibubur',
     title: {
-      en: 'Premium Laundry Legenda Wisata Cibubur | Waschen Alora',
-      id: 'Laundry Premium Legenda Wisata Cibubur | Waschen Alora'
+      en: 'Premium Laundry Legenda Wisata Cibubur | Alora Group',
+      id: 'Laundry Premium Legenda Wisata Cibubur | Alora Group'
     },
     description: {
       en: 'Premium laundry services in Legenda Wisata especially in Cibubur Cibubur. Special care for garments, bags, shoes, and bedding accessories with pickup & delivery.',
@@ -574,8 +574,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Shoe Cleaning', id: 'Cuci Sepatu' },
     locationName: { en: 'Cibubur (Jabodetabek)', id: 'Cibubur (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'Waschen Alora provides expert shoe cleaning and color restoration services in Cibubur. We treat canvas, suede, nubuck, and leather shoes using premium cleaning kits to preserve the material structure.',
-      id: 'Waschen Alora menyediakan jasa pencucian sepatu ahli dan restorasi warna di Cibubur. Kami merawat sepatu kanvas, suede, nubuck, hingga kulit menggunakan sabun pembersih khusus untuk melindungi serat material.'
+      en: 'Alora Group provides expert shoe cleaning and color restoration services in Cibubur. We treat canvas, suede, nubuck, and leather shoes using premium cleaning kits to preserve the material structure.',
+      id: 'Alora Group menyediakan jasa pencucian sepatu ahli dan restorasi warna di Cibubur. Kami merawat sepatu kanvas, suede, nubuck, hingga kulit menggunakan sabun pembersih khusus untuk melindungi serat material.'
     },
     features: [
       {
@@ -593,8 +593,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'cuci-tas-cibubur': {
     slug: 'cuci-tas-cibubur',
     title: {
-      en: 'Premium Bag & Leather Care Cibubur | Waschen Alora',
-      id: 'Jasa Cuci Tas & Perawatan Kulit Cibubur | Waschen Alora'
+      en: 'Premium Bag & Leather Care Cibubur | Alora Group',
+      id: 'Jasa Cuci Tas & Perawatan Kulit Cibubur | Alora Group'
     },
     description: {
       en: 'Premium bag cleaning and leather care services in Cibubur. Specialized treatments for luxury handbags, backpacks, and leather items.',
@@ -608,8 +608,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Bag Cleaning', id: 'Cuci Tas' },
     locationName: { en: 'Cibubur (Jabodetabek)', id: 'Cibubur (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'Waschen Alora offers high-end bag cleaning and sanitization in Cibubur. We clean dust, mold, and stains from designer bags, maintaining the shape and texture of genuine leather, nylon, and suede fabrics.',
-      id: 'Waschen Alora menawarkan cuci tas premium dan sanitasi di Cibubur. Kami membersihkan debu, jamur, dan noda dari tas branded, sekaligus menjaga bentuk dan kelembutan bahan kulit asli, nilon, dan kain suede.'
+      en: 'Alora Group offers high-end bag cleaning and sanitization in Cibubur. We clean dust, mold, and stains from designer bags, maintaining the shape and texture of genuine leather, nylon, and suede fabrics.',
+      id: 'Alora Group menawarkan cuci tas premium dan sanitasi di Cibubur. Kami membersihkan debu, jamur, dan noda dari tas branded, sekaligus menjaga bentuk dan kelembutan bahan kulit asli, nilon, dan kain suede.'
     },
     features: [
       {
@@ -627,8 +627,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-express-cibubur': {
     slug: 'laundry-express-cibubur',
     title: {
-      en: 'Fast Express Laundry Cibubur | Waschen Alora',
-      id: 'Laundry Express Cepat Cibubur | Waschen Alora'
+      en: 'Fast Express Laundry Cibubur | Alora Group',
+      id: 'Laundry Express Cepat Cibubur | Alora Group'
     },
     description: {
       en: 'Need clothes washed fast? Get our express laundry service in Cibubur. Clean, dry, and pressed in 3 to 24 hours.',
@@ -661,12 +661,12 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-cibubur': {
     slug: 'laundry-cibubur',
     title: {
-      en: 'Best Laundry & Dry Cleaning Cibubur | Waschen Alora',
-      id: 'Laundry & Dry Cleaning Terbaik Cibubur | Waschen Alora'
+      en: 'Best Laundry & Dry Cleaning Cibubur | Alora Group',
+      id: 'Laundry & Dry Cleaning Terbaik Cibubur | Alora Group'
     },
     description: {
-      en: 'Waschen Alora is the top laundry and dry cleaning provider in Cibubur. Premium washing machines, clean water filtration, and certified sanitization.',
-      id: 'Waschen Alora adalah penyedia jasa laundry & dry cleaning terbaik di Cibubur. Menggunakan mesin cuci premium, filter air bersih, dan sanitasi bersertifikat.'
+      en: 'Alora Group is the top laundry and dry cleaning provider in Cibubur. Premium washing machines, clean water filtration, and certified sanitization.',
+      id: 'Alora Group adalah penyedia jasa laundry & dry cleaning terbaik di Cibubur. Menggunakan mesin cuci premium, filter air bersih, dan sanitasi bersertifikat.'
     },
     h1: {
       en: 'Best Laundry & Dry Cleaning Services in Cibubur',
@@ -676,8 +676,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Best Laundry', id: 'Laundry Terbaik' },
     locationName: { en: 'Cibubur (Jabodetabek)', id: 'Cibubur (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'Waschen Alora Indonesia is your trusted partner for laundry and hygiene in Cibubur. Offering complete B2C retail and B2B commercial laundry solutions, we deliver accurate, clean, and reliable results.',
-      id: 'Waschen Alora Indonesia adalah mitra terpercaya Anda untuk urusan laundry dan kebersihan di Cibubur. Menyediakan layanan ritel B2C dan komersial B2B lengkap, kami menjamin pakaian Anda bersih higienis.'
+      en: 'Alora Group is your trusted partner for laundry and hygiene in Cibubur. Offering complete B2C retail and B2B commercial laundry solutions, we deliver accurate, clean, and reliable results.',
+      id: 'Alora Group adalah mitra terpercaya Anda untuk urusan laundry dan kebersihan di Cibubur. Menyediakan layanan ritel B2C dan komersial B2B lengkap, kami menjamin pakaian Anda bersih higienis.'
     },
     features: [
       {
@@ -695,8 +695,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-gunung-putri': {
     slug: 'laundry-gunung-putri',
     title: {
-      en: 'Premium Laundry & Dry Cleaning Gunung Putri | Waschen Alora',
-      id: 'Laundry Premium & Dry Cleaning Gunung Putri | Waschen Alora'
+      en: 'Premium Laundry & Dry Cleaning Gunung Putri | Alora Group',
+      id: 'Laundry Premium & Dry Cleaning Gunung Putri | Alora Group'
     },
     description: {
       en: 'Professional laundry services in Gunung Putri especially in Cibubur. Secure washing, eco-friendly detergents, and premium ironing with pickup and delivery.',
@@ -710,8 +710,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Premium Laundry', id: 'Laundry Premium' },
     locationName: { en: 'Gunung Putri (Jabodetabek)', id: 'Gunung Putri (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'Expanding our premium laundry coverage to Gunung Putri, Waschen Alora ensures factory, commercial, and residential clients receive the highest hygiene care with modern washing machines and sanitizers.',
-      id: 'Memperluas layanan laundry premium kami ke Gunung Putri, Waschen Alora memastikan klien pabrik, komersial, dan perumahan mendapatkan kebersihan terbaik dengan mesin cuci modern dan sanitizer aman.'
+      en: 'Expanding our premium laundry coverage to Gunung Putri, Alora Group ensures factory, commercial, and residential clients receive the highest hygiene care with modern washing machines and sanitizers.',
+      id: 'Memperluas layanan laundry premium kami ke Gunung Putri, Alora Group memastikan klien pabrik, komersial, dan perumahan mendapatkan kebersihan terbaik dengan mesin cuci modern dan sanitizer aman.'
     },
     features: [
       {
@@ -729,8 +729,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-kota-wisata': {
     slug: 'laundry-kota-wisata',
     title: {
-      en: 'Premium Laundry Kota Wisata Cibubur | Waschen Alora',
-      id: 'Laundry Premium Kota Wisata Cibubur | Waschen Alora'
+      en: 'Premium Laundry Kota Wisata Cibubur | Alora Group',
+      id: 'Laundry Premium Kota Wisata Cibubur | Alora Group'
     },
     description: {
       en: 'Premium laundry and dry cleaning services for all clusters in Kota Wisata especially in Cibubur Cibubur. Express turnaround and certified hygiene standards.',
@@ -763,8 +763,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-citra-grand': {
     slug: 'laundry-citra-grand',
     title: {
-      en: 'Premium Laundry Citra Grand | Waschen Alora',
-      id: 'Laundry Premium Citra Grand | Waschen Alora'
+      en: 'Premium Laundry Citra Grand | Alora Group',
+      id: 'Laundry Premium Citra Grand | Alora Group'
     },
     description: {
       en: 'Reliable laundry and dry cleaning services for Citra Grand especially in Cibubur residents. Fast, hygienic, and eco-friendly garment care with delivery.',
@@ -778,8 +778,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Premium Laundry', id: 'Laundry Premium' },
     locationName: { en: 'Citra Grand (Jabodetabek)', id: 'Citra Grand (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'Waschen Alora provides Citra Grand residents with accurate, detailed, and precise laundry services. Enjoy our certified washing protocols and professional clothing care.',
-      id: 'Waschen Alora menyediakan layanan laundry yang tepat, bersih, dan detail untuk warga Citra Grand khususnya di Cibubur. Nikmati protokol pencucian bersertifikat dan perawatan kain profesional.'
+      en: 'Alora Group provides Citra Grand residents with accurate, detailed, and precise laundry services. Enjoy our certified washing protocols and professional clothing care.',
+      id: 'Alora Group menyediakan layanan laundry yang tepat, bersih, dan detail untuk warga Citra Grand khususnya di Cibubur. Nikmati protokol pencucian bersertifikat dan perawatan kain profesional.'
     },
     features: [
       {
@@ -797,8 +797,8 @@ export const keywordsData: Record<string, KeywordItem> = {
   'laundry-jakarta-timur': {
     slug: 'laundry-jakarta-timur',
     title: {
-      en: 'Premium Commercial Laundry East Jakarta | Waschen Alora',
-      id: 'Laundry Komersial Premium Jakarta Timur | Waschen Alora'
+      en: 'Premium Commercial Laundry East Jakarta | Alora Group',
+      id: 'Laundry Komersial Premium Jakarta Timur | Alora Group'
     },
     description: {
       en: 'Commercial and retail laundry services in East Jakarta especially in Cibubur. Certified medical laundry, hotel linen rentals, and premium household laundry.',
