@@ -36,8 +36,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Premium Laundry', id: 'Laundry Premium' },
     locationName: { en: 'Raffles Hills, Cibubur (Jabodetabek)', id: 'Raffles Hills, Cibubur (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'PT Waschen Alora Indonesia provides premium laundry and dry cleaning services for residents of Raffles Hills especially in Cibubur, Cibubur. We utilize state-of-the-art washing technology and eco-friendly products to clean your garments with care and precision.',
-      id: 'PT Waschen Alora Indonesia menyediakan jasa laundry premium dan dry cleaning untuk warga perumahan Raffles Hills, Cibubur. Kami menggunakan teknologi pencucian termodern dan produk ramah lingkungan untuk membersihkan pakaian Anda secara cermat dan bersih.'
+      en: 'Alora Group provides premium laundry and dry cleaning services for residents of Raffles Hills especially in Cibubur, Cibubur. We utilize state-of-the-art washing technology and eco-friendly products to clean your garments with care and precision.',
+      id: 'Alora Group menyediakan jasa laundry premium dan dry cleaning untuk warga perumahan Raffles Hills, Cibubur. Kami menggunakan teknologi pencucian termodern dan produk ramah lingkungan untuk membersihkan pakaian Anda secara cermat dan bersih.'
     },
     features: [
       {
@@ -226,8 +226,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Hospital Laundry', id: 'Laundry Rumah Sakit' },
     locationName: { en: 'Cibubur (Jabodetabek)', id: 'Cibubur (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'PT IKM (a unit of PT Waschen Alora Indonesia) is a specialized B2B provider of healthcare laundry and linen management in Cibubur. We conform to tight disinfection protocols and medical standards, ensuring zero cross-contamination.',
-      id: 'PT IKM (unit dari PT Waschen Alora Indonesia) adalah penyedia khusus B2B untuk laundry layanan kesehatan dan manajemen linen di Cibubur. Kami mematuhi protokol disinfeksi ketat dan standar medis untuk mencegah kontaminasi silang.'
+      en: 'PT IKM (a unit of Alora Group) is a specialized B2B provider of healthcare laundry and linen management in Cibubur. We conform to tight disinfection protocols and medical standards, ensuring zero cross-contamination.',
+      id: 'PT IKM (unit dari Alora Group) adalah penyedia khusus B2B untuk laundry layanan kesehatan dan manajemen linen di Cibubur. Kami mematuhi protokol disinfeksi ketat dan standar medis untuk mencegah kontaminasi silang.'
     },
     features: [
       {
@@ -366,8 +366,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Cleaning Service', id: 'Cleaning Service' },
     locationName: { en: 'Cibubur (Jabodetabek)', id: 'Cibubur (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'Cleanox (a unit of PT Waschen Alora Indonesia) is a premium cleaning service provider in Cibubur. We specialize in deep cleaning, post-construction cleaning, and general maintenance for residential and commercial units.',
-      id: 'Cleanox (unit dari PT Waschen Alora Indonesia) adalah penyedia jasa kebersihan premium di Cibubur. Kami berpengalaman dalam deep cleaning, pembersihan pasca-konstruksi, dan perawatan umum untuk perumahan dan komersial.'
+      en: 'Cleanox (a unit of Alora Group) is a premium cleaning service provider in Cibubur. We specialize in deep cleaning, post-construction cleaning, and general maintenance for residential and commercial units.',
+      id: 'Cleanox (unit dari Alora Group) adalah penyedia jasa kebersihan premium di Cibubur. Kami berpengalaman dalam deep cleaning, pembersihan pasca-konstruksi, dan perawatan umum untuk perumahan dan komersial.'
     },
     features: [
       {
@@ -812,8 +812,8 @@ export const keywordsData: Record<string, KeywordItem> = {
     serviceName: { en: 'Commercial Laundry', id: 'Laundry Komersial' },
     locationName: { en: 'East Jakarta (Jabodetabek)', id: 'Jakarta Timur (Jabodetabek)' },
     descriptionDetailed: {
-      en: 'As a holding company located on the border of East Jakarta and Depok, PT Waschen Alora Indonesia serves businesses, clinics, hotels, and households across East Jakarta especially in Cibubur with high-standard commercial and premium retail laundry.',
-      id: 'Sebagai holding company yang terletak di perbatasan Jakarta Timur dan Depok, PT Waschen Alora Indonesia melayani bisnis, klinik, hotel, dan rumah tangga di seluruh Jakarta Timur khususnya di Cibubur dengan laundry komersial standar tinggi dan laundry ritel premium.'
+      en: 'As a holding company located on the border of East Jakarta and Depok, Alora Group serves businesses, clinics, hotels, and households across East Jakarta especially in Cibubur with high-standard commercial and premium retail laundry.',
+      id: 'Sebagai holding company yang terletak di perbatasan Jakarta Timur dan Depok, Alora Group melayani bisnis, klinik, hotel, dan rumah tangga di seluruh Jakarta Timur khususnya di Cibubur dengan laundry komersial standar tinggi dan laundry ritel premium.'
     },
     features: [
       {

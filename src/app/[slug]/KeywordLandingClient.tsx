@@ -258,8 +258,8 @@ export const KeywordLandingClient: React.FC<KeywordLandingClientProps> = ({ data
             
             <p className="text-primary/70 text-base leading-relaxed mb-10 font-medium">
               {isEn 
-                ? 'PT Waschen Alora Indonesia is committed to setting new benchmarks in cleanliness and customer convenience. We continuously invest in advanced machinery and eco-friendly standards to deliver perfect results.'
-                : 'PT Waschen Alora Indonesia berkomitmen menetapkan standar baru dalam kebersihan dan kenyamanan. Kami senantiasa berinvestasi pada teknologi mesin pencucian modern dan standar ramah lingkungan.'}
+                ? 'Alora Group is committed to setting new benchmarks in cleanliness and customer convenience. We continuously invest in advanced machinery and eco-friendly standards to deliver perfect results.'
+                : 'Alora Group berkomitmen menetapkan standar baru dalam kebersihan dan kenyamanan. Kami senantiasa berinvestasi pada teknologi mesin pencucian modern dan standar ramah lingkungan.'}
             </p>
 
             <div className="space-y-4">

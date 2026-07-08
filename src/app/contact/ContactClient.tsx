@@ -22,7 +22,7 @@ export const ContactClient: FC = () => {
     e.preventDefault();
     
     const phoneNumber = "6285122333371";
-    const message = `Halo Waschen Alora Indonesia
+    const message = `Halo Alora Group
 
 Saya ingin mengajukan permintaan layanan dengan detail berikut:
 ▸ Nama: ${formData.name}

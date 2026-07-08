@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: data.title.id,
       description: data.description.id,
       url: url,
-      siteName: 'Waschen Alora Indonesia',
+      siteName: 'Alora Group',
       locale: 'id_ID',
       type: 'website',
       images: [
@@ -67,7 +67,7 @@ export default async function KeywordPage({ params }: Props) {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
     '@id': `https://wascenalora.com/#local-business-${slug}`,
-    name: 'PT Waschen Alora Indonesia',
+    name: 'Alora Group',
     image: 'https://wascenalora.com/og-image.webp',
     url: `https://wascenalora.com/${slug}`,
     telephone: '+6285122333371',
@@ -114,7 +114,7 @@ export default async function KeywordPage({ params }: Props) {
     serviceType: data.serviceName.id,
     provider: {
       '@type': 'LocalBusiness',
-      name: 'PT Waschen Alora Indonesia',
+      name: 'Alora Group',
       telephone: '+6285122333371',
     },
     areaServed: {

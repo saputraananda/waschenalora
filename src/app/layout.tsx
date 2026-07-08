@@ -11,16 +11,16 @@ import { LanguageProvider } from "@/lib/LanguageContext";
 
 export const metadata: Metadata = {
   title: {
-    default: "Waschen Alora Indonesia | Commercial Laundry & Cleaning Services",
-    template: "%s | Waschen Alora Indonesia"
+    default: "Alora Group | Commercial Laundry & Cleaning Services",
+    template: "%s | Alora Group"
   },
-  description: "PT Waschen Alora Indonesia - Leading holding company providing commercial laundry, linen management, healthcare laundry, and professional home & office cleaning services in Indonesia.",
+  description: "Alora Group - Leading holding company providing commercial laundry, linen management, healthcare laundry, and professional home & office cleaning services in Indonesia.",
   metadataBase: new URL("https://wascenalora.com"),
   openGraph: {
-    title: "Waschen Alora Indonesia",
+    title: "Alora Group",
     description: "Complete commercial laundry, linen management, and cleaning solutions for B2B and B2C sectors. Precision, hygiene, and trust in every service.",
     url: "https://wascenalora.com",
-    siteName: "Waschen Alora Indonesia",
+    siteName: "Alora Group",
     locale: "id_ID",
     type: "website",
     images: [
@@ -28,13 +28,13 @@ export const metadata: Metadata = {
         url: "/og-image.webp",
         width: 1200,
         height: 630,
-        alt: "Waschen Alora Indonesia",
+        alt: "Alora Group",
       }
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Waschen Alora Indonesia | Commercial Laundry & Cleaning",
+    title: "Alora Group | Commercial Laundry & Cleaning",
     description: "Complete commercial laundry, linen management, and cleaning solutions for B2B and B2C sectors.",
     images: ["/og-image.webp"],
   },

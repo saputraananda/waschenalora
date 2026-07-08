@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import Link from 'next/link';
-import logoAlora from '@/assets/logo-new-landscape.webp';
+import logoAlora from '@/assets/logo-alora.png';
 import type { FC } from 'react';
 import { useLanguage } from '@/lib/LanguageContext';
 import { MapPin, Phone, Mail } from 'lucide-react';
@@ -36,7 +36,7 @@ export const Footer: FC = () => {
             <Link href="/" className="flex items-center group cursor-pointer mb-6" suppressHydrationWarning>
               <Image
                 src={logoAlora}
-                alt="Waschen Alora Indonesia"
+                alt="Alora Group"
                 className="h-10 w-auto object-contain transition-transform group-hover:scale-105 brightness-0 invert"
               />
             </Link>
@@ -125,7 +125,7 @@ export const Footer: FC = () => {
         </div>
 
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] font-semibold uppercase tracking-[0.2em] text-white/30">
-          <p>© 2025 Waschen Alora Indonesia. {t('footer_copyright')}</p>
+          <p>© 2025 Alora Group. {t('footer_copyright')}</p>
           <p>{t('footer_tagline')}</p>
         </div>
       </div>

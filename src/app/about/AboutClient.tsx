@@ -279,7 +279,7 @@ const VisionMissionTabs: FC = () => {
         <div className="relative z-10 mt-auto border-t border-white/10 pt-6 flex justify-between items-center">
           <div>
             <span className="text-white/40 text-[10px] font-semibold uppercase tracking-wider block mb-1">Aspiration</span>
-            <span className="text-white text-xs font-semibold tracking-wide">PT Waschen Alora Indonesia</span>
+            <span className="text-white text-xs font-semibold tracking-wide">Alora Group</span>
           </div>
           <motion.div
             animate={{ rotate: 360 }}

@@ -14,9 +14,9 @@ import { AnimatedContent } from '@/components/animations/AnimatedContent';
 
 export const metadata: Metadata = {
   title: "Solusi Laundry Komersial & Cleaning Service Indonesia",
-  description: "PT Waschen Alora Indonesia menyediakan layanan commercial laundry, sewa linen rumah sakit (healthcare linen), laundry hotel, laundry korporat, serta cleaning service rumah & kantor dengan standar higienis dan terpercaya.",
+  description: "Alora Group menyediakan layanan commercial laundry, sewa linen rumah sakit (healthcare linen), laundry hotel, laundry korporat, serta cleaning service rumah & kantor dengan standar higienis dan terpercaya.",
   openGraph: {
-    title: "PT Waschen Alora Indonesia - Laundry Komersial & Jasa Kebersihan",
+    title: "Alora Group - Laundry Komersial & Jasa Kebersihan",
     description: "Solusi commercial laundry, manajemen linen rumah sakit, laundry hotel, laundry korporat, serta cleaning service rumah & kantor terpercaya.",
     url: "https://wascenalora.com",
     type: "website",
@@ -28,9 +28,9 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": "https://wascenalora.com/#organization",
-    "name": "PT Waschen Alora Indonesia",
+    "name": "Alora Group",
     "url": "https://wascenalora.com",
-    "logo": "https://wascenalora.com/logo-new-landscape.webp",
+    "logo": "https://wascenalora.com/logo-alora-new.webp",
     "sameAs": [
       "https://waschenlaundry.com/",
       "https://www.ikmalora.com/",
@@ -42,7 +42,7 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "@id": "https://wascenalora.com/#local-business",
-    "name": "PT Waschen Alora Indonesia",
+    "name": "Alora Group",
     "image": "https://wascenalora.com/og-image.webp",
     "telephone": "+6285122333371",
     "email": "waschen.aloraindonesia@gmail.com",
