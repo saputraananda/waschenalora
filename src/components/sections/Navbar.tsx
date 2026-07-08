@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from 'next/link';
 import { useRouter, usePathname } from 'next/navigation';
-import logoAlora from '@/assets/logo-alora.png';
+import logoAlora from '@/assets/logo-alora-group.webp';
 import waschenLogo from '@/assets/logo/waschen.webp';
 import ikmLogo from '@/assets/logo/ikm.webp';
 import cleanoxLogo from '@/assets/logo/cleanox.webp';
@@ -114,9 +114,7 @@ export const Navbar: FC = () => {
               src={logoAlora}
               alt="Alora Group"
               priority
-              className={`h-9 w-auto object-contain transition-all duration-500 group-hover:scale-105 ${
-                !isScrolled ? 'brightness-0 invert' : ''
-              }`}
+              className="h-9 w-auto object-contain transition-all duration-500 group-hover:scale-105"
             />
           </Link>
         </div>

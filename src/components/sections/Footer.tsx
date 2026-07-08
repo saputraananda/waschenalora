@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import Link from 'next/link';
-import logoAlora from '@/assets/logo-alora.png';
+import logoAlora from '@/assets/logo-alora-group.webp';
 import type { FC } from 'react';
 import { useLanguage } from '@/lib/LanguageContext';
 import { MapPin, Phone, Mail } from 'lucide-react';
