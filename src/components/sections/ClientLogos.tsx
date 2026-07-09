@@ -4,7 +4,6 @@ import ekaHospital from '@/assets/eka-hospital.webp';
 import bundaLogo from '@/assets/bunda-logo.webp';
 import columbiaHospital from '@/assets/columbia-asia.webp';
 import grandFamily from '@/assets/grand-family.webp';
-import tuguIbu from '@/assets/tugu-ibu.webp';
 import permataCibubur from '@/assets/permata-cibubur.webp';
 import { useLanguage } from '@/lib/LanguageContext';
 
@@ -23,7 +22,6 @@ export const ClientLogos = () => {
     { name: 'RSIA Family Pluit', logo: ekaHospital },
     { name: 'Columbia Hospital', logo: columbiaHospital },
     { name: 'RSIA Grand Family PIK', logo: grandFamily },
-    { name: 'RS Tugu Ibu', logo: tuguIbu },
     { name: 'RSIA Permata Cibubur', logo: permataCibubur },
   ];
 
