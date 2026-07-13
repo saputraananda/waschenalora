@@ -120,6 +120,7 @@ export const Hero = () => {
               src={imgServicesLagi}
               alt="Services Highlight"
               priority
+              unoptimized
               className="w-full h-auto object-contain block translate-y-[18px] lg:translate-y-[20px]"
             />
           </motion.div>

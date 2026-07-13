@@ -103,7 +103,7 @@ export const Services: FC = () => {
                         </div>
                         {/* Floating Logo Box */}
                         <div className="absolute -bottom-6 left-6 h-16 w-16 bg-white rounded-2xl shadow-xl flex items-center justify-center p-3 border border-gray-100 group-hover/card:translate-y-[-5px] transition-transform duration-500 z-10">
-                          <Image src={item.logo} alt={item.tag} className="w-full h-full object-contain" />
+                          <Image src={item.logo} alt={item.tag} unoptimized className="w-full h-full object-contain" />
                         </div>
                       </CardItem>
 

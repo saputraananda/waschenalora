@@ -59,6 +59,7 @@ export const LogoLoop: FC<LogoLoopProps> = ({ logos, className = "" }) => {
                 <Image 
                   src={item.logo} 
                   alt={item.name} 
+                  unoptimized
                   className="max-h-full max-w-full object-contain"
                 />
              </div>

@@ -114,6 +114,7 @@ export const Navbar: FC = () => {
               src={logoAlora}
               alt="Alora Group"
               priority
+              unoptimized
               className="h-9 w-auto object-contain transition-all duration-500 group-hover:scale-105"
             />
             <span className={`text-lg font-semibold transition-all duration-500 ${
@@ -165,7 +166,7 @@ export const Navbar: FC = () => {
                               className="flex items-center gap-3 p-3 rounded-xl hover:bg-[#fc8018]/5 transition-colors group"
                             >
                               <div className="h-10 w-10 rounded-xl bg-gray-50 flex items-center justify-center p-2 shrink-0 group-hover:bg-white group-hover:shadow-sm transition-all">
-                                <Image src={unit.logo} alt={unit.name} className="w-full h-full object-contain" />
+                                <Image src={unit.logo} alt={unit.name} unoptimized className="w-full h-full object-contain" />
                               </div>
                               <div className="flex-1 min-w-0">
                                 <h4 className="text-sm font-semibold text-primary group-hover:text-[#fc8018] transition-colors">
@@ -277,7 +278,7 @@ export const Navbar: FC = () => {
                             className="flex items-center gap-3 rounded-xl px-3 py-2.5 hover:bg-[#fc8018]/5"
                           >
                             <div className="h-9 w-9 rounded-lg bg-gray-50 flex items-center justify-center p-2 shrink-0">
-                              <Image src={unit.logo} alt={unit.name} className="w-full h-full object-contain" />
+                              <Image src={unit.logo} alt={unit.name} unoptimized className="w-full h-full object-contain" />
                             </div>
                             <div className="min-w-0 flex-1">
                               <div className="text-sm font-semibold text-primary">{unit.name}</div>

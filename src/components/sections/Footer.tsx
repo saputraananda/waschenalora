@@ -37,6 +37,7 @@ export const Footer: FC = () => {
               <Image
                 src={logoAlora}
                 alt="Alora Group"
+                unoptimized
                 className="h-10 w-auto object-contain transition-transform group-hover:scale-105 brightness-0 invert"
               />
             </Link>

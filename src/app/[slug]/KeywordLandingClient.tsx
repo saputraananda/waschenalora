@@ -216,7 +216,7 @@ export const KeywordLandingClient: React.FC<KeywordLandingClientProps> = ({ data
             <div className="bg-white border border-gray-100 p-8 md:p-12 rounded-[3rem] shadow-xl relative">
               <div className="flex items-center gap-5 mb-8">
                 <div className="h-16 w-16 bg-gray-50 rounded-2xl flex items-center justify-center p-3 border border-gray-100 shadow-sm shrink-0">
-                  <Image src={unitBranding.logo} alt={unitBranding.name} className="w-full h-full object-contain" />
+                  <Image src={unitBranding.logo} alt={unitBranding.name} unoptimized className="w-full h-full object-contain" />
                 </div>
                 <div>
                   <span className="text-xs font-bold uppercase tracking-widest text-[#fc8018] mb-1 block">
