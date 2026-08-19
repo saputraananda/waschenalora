@@ -28,6 +28,7 @@ export const translations: Record<string, { en: string; id: string }> = {
   hero_cta: { en: "Discover Our Services", id: "Temukan Layanan Kami" },
   word_professional: { en: "Professional", id: "Profesional" },
   word_resilience: { en: "Resilience", id: "Ketahanan" },
+  word_empathy: { en: "Empathy", id: "Empati" },
   word_collaboration: { en: "Collaboration", id: "Kolaborasi" },
   word_innovation: { en: "Innovation", id: "Inovasi" },
   word_sustainability: { en: "Sustainability", id: "Keberlanjutan" },
@@ -171,6 +172,9 @@ export const translations: Record<string, { en: string; id: string }> = {
   
   about_r_title: { en: "Resilience", id: "Resilience" },
   about_r_desc: { en: "Tough mindset, agile in solving challenges. A reliable partner that is on-time, consistent, always ready.", id: "Mental tangguh dan adaptif dalam menghadapi tantangan. Mitra andal yang tepat waktu, konsisten, dan selalu siap." },
+  
+  about_empathy_title: { en: "Empathy", id: "Empathy" },
+  about_empathy_desc: { en: "Attentive to needs, listening sincerely, and delivering relevant solutions for customers and partners.", id: "Peka terhadap kebutuhan, mendengarkan dengan tulus, dan menghadirkan solusi yang relevan bagi pelanggan maupun mitra." },
   
   about_c_title: { en: "Collaboration", id: "Collaboration" },
   about_c_desc: { en: "The best results come from strong teamwork through open communication, mutual respect, and shared goals.", id: "Hasil terbaik lahir dari kerja sama yang kuat melalui komunikasi terbuka, saling menghargai, dan tujuan bersama." },

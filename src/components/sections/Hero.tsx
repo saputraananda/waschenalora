@@ -8,7 +8,7 @@ import { useLanguage } from '@/lib/LanguageContext';
 
 import imgServicesLagi from '@/assets/services-lagi.webp';
 
-const words = ["professional", "resilience", "collaboration", "innovation", "sustainability", "excellence"];
+const words = ["professional", "resilience", "empathy", "collaboration", "innovation", "sustainability", "excellence"];
 
 const videos = [
   { id: 1, name: 'cleanox', src: '/video/slider-cleanox.mp4' },

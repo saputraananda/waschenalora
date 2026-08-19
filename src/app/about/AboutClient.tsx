@@ -374,6 +374,12 @@ const PreciseCircularUI: FC = () => {
       icon: TrendingUp
     },
     {
+      letter: "E",
+      title: t('about_empathy_title'),
+      desc: t('about_empathy_desc'),
+      icon: HeartHandshake
+    },
+    {
       letter: "C",
       title: t('about_c_title'),
       desc: t('about_c_desc'),
@@ -458,7 +464,7 @@ const PreciseCircularUI: FC = () => {
           {/* Orbiting Icon Buttons */}
           {preciseValues.map((value, i) => {
             const IconComponent = value.icon;
-            const angle = (i * 60 - 90) * (Math.PI / 180);
+            const angle = (i * (360 / preciseValues.length) - 90) * (Math.PI / 180);
             const x = Math.cos(angle) * radius;
             const y = Math.sin(angle) * radius;
 

@@ -98,6 +98,11 @@ export const KeywordLandingClient: React.FC<KeywordLandingClientProps> = ({ data
       desc: t('about_r_desc') || 'Tough mindset, agile in solving challenges.'
     },
     {
+      letter: 'E',
+      title: t('about_empathy_title') || 'Empathy',
+      desc: t('about_empathy_desc') || 'Attentive to needs, listening sincerely, and delivering relevant solutions.'
+    },
+    {
       letter: 'C',
       title: t('about_c_title') || 'Collaboration',
       desc: t('about_c_desc') || 'Strong teamwork through open communication.'
@@ -302,7 +307,7 @@ export const KeywordLandingClient: React.FC<KeywordLandingClientProps> = ({ data
           </p>
         </div>
 
-        <div className="max-w-[1400px] mx-auto grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
+        <div className="max-w-[1400px] mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-6">
           {preciseValues.map((val, idx) => (
             <div 
               key={idx} 
